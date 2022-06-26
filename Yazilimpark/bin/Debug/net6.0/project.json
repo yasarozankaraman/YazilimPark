@@ -1,0 +1,26 @@
+[
+  {
+    "Id": 0,
+    "Name": "BMI",
+    "Path": "Bmi",
+    "BackgroundImage": "post1.png"
+  },
+  {
+    "Id": 1,
+    "Name": "Rastgele Soz",
+    "Path": "RandomQuote",
+    "BackgroundImage": "post3.jpg"
+  },
+  {
+    "Id": 2,
+    "Name": "Yapilacak Isler",
+    "Path": "ToDoList",
+    "BackgroundImage": "post3.png"
+  },
+  {
+    "Id": 3,
+    "Name": "Hava Durumu",
+    "Path": "SearchByCity",
+    "BackgroundImage": "post2.jpg"
+  }
+]
