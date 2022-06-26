@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iWHGhgAi0EpD4+zZ/KYSIGEMm40LsnwxkmBHxrgBmUxLHKX0fI/YBPhbuW2FHz9jmpNgbA3BfoodXTxG8nwqkA==",
+  "dgSpecHash": "h2VIq9s7mkjwqESMpJ7v8MoXMUhNdf+FRIVL4pvzDeMngvqfRs/y7YjS6Lw50aXOl9HAQ9BZTNgMxjzUAIL8tw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Yasar\\OneDrive\\Masaüstü\\YazilimParkProject-352d9834f03b28bd26915549270d3f7fe275de7c\\Yazilimpark\\Yazilimpark.csproj",
+  "projectFilePath": "C:\\Users\\Yasar\\OneDrive\\Masaüstü\\YazilimPark\\Yazilimpark\\Yazilimpark.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Yasar\\.nuget\\packages\\documentformat.openxml\\2.16.0\\documentformat.openxml.2.16.0.nupkg.sha512",
     "C:\\Users\\Yasar\\.nuget\\packages\\microsoft.aspnet.mvc\\5.2.9\\microsoft.aspnet.mvc.5.2.9.nupkg.sha512",
